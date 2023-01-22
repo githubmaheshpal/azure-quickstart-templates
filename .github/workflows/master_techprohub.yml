@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'techprohub'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACF2606C28A44458A55DA2D2EFEA5ACA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE2066E7DD1E4AD699EB8D1ED23719E9 }}
           package: .
